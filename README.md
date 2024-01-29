@@ -2,7 +2,7 @@
 - 👀 I love coding and gaming
 - 🌱 I’m currently learning to live myself out the max
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me gyuntekahmed@abv.bg
+- 📫 Reach me gyuntekahmed@gmail.bg
 
 <!---
 GyuntekAhmed/GyuntekAhmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
